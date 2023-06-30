@@ -2,7 +2,7 @@
 
 ## How to disclose a vulnerability to us
 
-For vulnerabilities in any of our websites, email servers or other non-critical infrastructure, please email Mantle team at [support@mantle.xyz](`support@mantle.xyz`). We and Mantle appreciate detailed instructions for confirming the vulnerability.
+For vulnerabilities in any of our websites, email servers or other non-critical infrastructure, please email Mantle team at [protocol@mantle.xyz](`protocol@mantle.xyz`). We and Mantle appreciate detailed instructions for confirming the vulnerability.
 
 ## How we disclose vulnerabilities
 
